@@ -27,7 +27,7 @@ This repository is aimed at beginners who want to get a solid grasp of JavaScrip
 
 To get started with this project, you need to have Node.js installed on your machine. You can download it from [Node.js official website](https://nodejs.org/).
 
-### Installation {#objects}
+## Installation {#objects}
 
 1. Clone this repository to your local machine:
    ```bash
